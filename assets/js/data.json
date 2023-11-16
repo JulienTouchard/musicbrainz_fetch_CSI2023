@@ -1,0 +1,421 @@
+{
+    "created": "2023-11-16T15:40:26.152Z",
+    "count": 51,
+    "offset": 0,
+    "labels": [
+        {
+            "id": "dc940013-b8a8-4362-a465-291026c04b42",
+            "type": "Original Production",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "score": 100,
+            "name": "Ninja Tune",
+            "sort-name": "Ninja Tune",
+            "label-code": 12885,
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "1990",
+                "ended": null
+            },
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "drum and bass"
+                },
+                {
+                    "count": 1,
+                    "name": "british"
+                },
+                {
+                    "count": 2,
+                    "name": "uk"
+                },
+                {
+                    "count": 1,
+                    "name": "english"
+                },
+                {
+                    "count": 2,
+                    "name": "independent"
+                },
+                {
+                    "count": 1,
+                    "name": "edm"
+                }
+            ]
+        },
+        {
+            "id": "786be748-5949-4d9c-833c-a41e0012d0e4",
+            "type": "Publisher",
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "score": 85,
+            "name": "Ninja Tracks",
+            "sort-name": "Ninja Tracks",
+            "disambiguation": "[NINJAR]",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "76c26325-f1ff-4657-b694-b23aec07d0dd",
+            "type": "Original Production",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "score": 85,
+            "name": "Ninja Tuna",
+            "sort-name": "Ninja Tuna",
+            "disambiguation": "Mr Scruff / Ninja Tune collab label",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "2008",
+                "ended": null
+            }
+        },
+        {
+            "id": "1cc37548-fd93-4b55-9d0e-53cff77a339c",
+            "score": 85,
+            "name": "Mutant Ninja",
+            "sort-name": "Mutant Ninja",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "b7bde460-c39d-4f36-ae9a-bbdc1ba13979",
+            "score": 78,
+            "name": "Ninja Hardcore",
+            "sort-name": "Ninja Hardcore",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "3ace870c-c2d8-4948-9c0e-fcfd48bfd6f7",
+            "score": 77,
+            "name": "140 Ninja",
+            "sort-name": "140 Ninja",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "d0cff91b-fb2b-4a45-8cef-067ec9f5a208",
+            "type": "Original Production",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "score": 75,
+            "name": "Majik Ninja Entertainment",
+            "sort-name": "Majik Ninja Entertainment",
+            "area": {
+                "id": "29fa065f-a568-418c-98b9-5023f64d9312",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+                "name": "Michigan",
+                "sort-name": "Michigan",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "2014",
+                "ended": null
+            }
+        },
+        {
+            "id": "bf6a73bc-ceee-4661-ad64-e0dbdf41cca9",
+            "type": "Publisher",
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "score": 74,
+            "name": "Notebook Ninja",
+            "sort-name": "Notebook Ninja",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "f552a6dc-5dee-4278-a23c-be41ab945bab",
+            "score": 74,
+            "name": "Ninja Kiwi",
+            "sort-name": "Ninja Kiwi",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "d6514850-aa55-4184-8500-05f94b14a489",
+            "type": "Original Production",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "score": 70,
+            "name": "Noise Ninja Records",
+            "sort-name": "Noise Ninja Records",
+            "area": {
+                "id": "a0793fcd-f57d-4bab-ae5f-5b5a745d92b9",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Kawagoe",
+                "sort-name": "Kawagoe",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "11f6e404-7c1c-4854-8937-d97d85a00f1d",
+            "score": 69,
+            "name": "Honest Ninja Music",
+            "sort-name": "Honest Ninja Music",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "b7880005-32a4-435c-80e1-5f1a59c6cc3f",
+            "type": "Publisher",
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "score": 69,
+            "name": "Happy Ninja Media",
+            "sort-name": "Happy Ninja Media",
+            "life-span": {
+                "begin": "2015",
+                "ended": null
+            }
+        },
+        {
+            "id": "8474fafb-1994-4c85-92d3-d6f001d2cbce",
+            "type": "Original Production",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "score": 69,
+            "name": "Ninja Columbo Records",
+            "sort-name": "Ninja Columbo Records",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "aa8c8df6-6757-40fd-aedf-8109a6477117",
+            "score": 68,
+            "name": "Ninjastarrecords",
+            "sort-name": "Ninjastarrecords",
+            "life-span": {
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Ninja Star Records",
+                    "name": "Ninja Star Records",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ]
+        },
+        {
+            "id": "cdaaa0c1-50f8-4f1d-8316-a0fdff8cf3b1",
+            "score": 68,
+            "name": "TOP NINJA MUSIC",
+            "sort-name": "TOP NINJA MUSIC",
+            "life-span": {
+                "begin": "2015",
+                "ended": null
+            }
+        },
+        {
+            "id": "273e71e8-0e97-48b9-b99e-7d1266be7083",
+            "score": 67,
+            "name": "Swing Ninja Records",
+            "sort-name": "Swing Ninja Records",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "e36512ea-bf9c-4ab3-ab0c-9ca8014c75be",
+            "type": "Publisher",
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "score": 67,
+            "name": "Ninja Kitten Records",
+            "sort-name": "Ninja Kitten Records",
+            "area": {
+                "id": "bf192f48-bb6a-433f-8d27-66c3b48e3780",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Shrewsbury",
+                "sort-name": "Shrewsbury",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "2015-01-01",
+                "ended": null
+            }
+        },
+        {
+            "id": "11a598a6-2894-4a94-9972-1f07d81e4688",
+            "score": 66,
+            "name": "ninja punch music",
+            "sort-name": "ninja punch music",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "e9c43b32-6332-4270-aaed-c2c45bb6dd7a",
+            "type": "Original Production",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "score": 66,
+            "name": "Ninja Remixing Team",
+            "sort-name": "Ninja Remixing Team",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "d53f6bf2-802f-462a-a1fa-5d633ea4b593",
+            "type": "Publisher",
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "score": 66,
+            "name": "Ninja Theory Ltd.",
+            "sort-name": "Ninja Theory Ltd.",
+            "disambiguation": "Game Studio",
+            "area": {
+                "id": "11ba7f4f-3fb9-4b4b-a72f-ab1cd9c37d99",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Cambridge",
+                "sort-name": "Cambridge",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "2004",
+                "ended": null
+            }
+        },
+        {
+            "id": "b18dde1a-6541-487f-839a-31200f207195",
+            "type": "Original Production",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "score": 65,
+            "name": "Ninjani Diskus",
+            "sort-name": "Ninjani Diskus",
+            "country": "SE",
+            "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "f90018b1-444d-4d9c-b509-9acb8ea8a089",
+            "score": 65,
+            "name": "Illegal Ninja Moves",
+            "sort-name": "Illegal Ninja Moves",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "40725ad4-f20a-43cf-93b9-f8f0a4689f73",
+            "type": "Publisher",
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "score": 63,
+            "name": "Rich Ninja Music",
+            "sort-name": "Rich Ninja Music",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "cb042d41-d51e-41fa-b805-3a3cdf54df02",
+            "type": "Publisher",
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "score": 63,
+            "name": "Ninja Bunny Music",
+            "sort-name": "Ninja Bunny Music",
+            "ipis": [
+                "00674186810"
+            ],
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "38aa1457-e058-43a0-8cfa-e20043b9ab6b",
+            "type": "Publisher",
+            "type-id": "e9ad53b0-e3d0-3885-a10b-8193d501338c",
+            "score": 63,
+            "name": "Strong Ninja Editions",
+            "sort-name": "Strong Ninja Editions",
+            "ipis": [
+                "00839754391"
+            ],
+            "area": {
+                "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Paris",
+                "sort-name": "Paris",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "ended": null
+            }
+        }
+    ]
+}
